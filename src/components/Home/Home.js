@@ -5,7 +5,10 @@ import Meals from '../Meals/Meals';
 const Home = () => {
     return (
         <Container className='mt-4'>
-            <Row>
+            <Row className='g-3'>
+                <Meals></Meals>
+                <Meals></Meals>
+                <Meals></Meals>
                 <Meals></Meals>
             </Row>
         </Container>
