@@ -1,0 +1,10 @@
+.brand-logo {
+    font-family: 'Cabin', sans-serif;
+    color: #fff;
+}
+
+.brand-bg {
+    background: #FDC830;
+    background: -webkit-linear-gradient(to right, #F37335, #FDC830);
+    background: linear-gradient(to right, #F37335, #FDC830);   
+}
